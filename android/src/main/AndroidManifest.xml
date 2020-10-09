@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.drazvan91.capacitor.smsreader.capacitorsmsreader">
+    <uses-permission android:name="android.permission.READ_SMS" />
+</manifest>
